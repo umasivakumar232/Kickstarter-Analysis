@@ -64,7 +64,7 @@ For this analysis we followed the below steps
 ![image](https://user-images.githubusercontent.com/85518330/122445912-ad3d7800-cf67-11eb-9540-9e780ab2b6a3.png)
 
 
-### What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Two conclusions that can be drawn from the Outcomes based on Launch Date
 
 - Theater campaigns launched May through July have a higher success rate
 - End of the year is a bad time to launch campaigns for theaters/plays 
@@ -82,13 +82,13 @@ For this exercise we created certain goal ranges to help bucket the campaigns ba
 ![image](https://user-images.githubusercontent.com/85518330/122446242-0efde200-cf68-11eb-9b4b-8679cc5ea34b.png)
 
 
-### What can you conclude about the Outcomes based on Goals? 
+### Conclusions from the Outcomes based on Goals
 
 - Lower goals of less than 5000 USD have the highest rate of success and form a majority of all play campaigns on Kickstarter
 - Plays with higher goals of between 35000 & 44999 USD also had a high success rate but these were very few in number and hence not a significant sample
 
 ### Challenges and Difficulties Encountered
--	I felt that the data set provided to us for the purpose of this exercise was somewhat limiting. Having more information on reasons why campaigns failed of were cancelled could help us analyze a comprehensive list of reasons/pitfalls for Louise to be cautious about
+-	Dataset provided for the purpose of this exercise was somewhat limiting with respect detailed reasons for each campaigns success or failure.  This prevented us from providing a comprehensive list of reasons/pitfalls for Louise to be cautious about
  
 ## Results
 Our analysis uncovered the following insights that we would share with Louise 
@@ -103,14 +103,14 @@ Our analysis uncovered the following insights that we would share with Louise
 
 -	So, while prima facie a funding goal of 10000+ USD that Louise is seeking seems high. We will need to do some further research to try and find out other factors that may cause campaigns to fail. Before we recommend lowering her funding goals
 
-## What are some limitations of this dataset?
+## Some limitations of this dataset
 - We know some campaigns failed and some were canceled, we don’t however know the exact reason why the campaigns failed or what caused the campaigns to be canceled. 
 - This limitation is forcing us to analyze our campaigns outcome purely from the stand point of funding goals and amounts pledged. 
 - This is leading to an indication that Louise may be seeking a higer than recommended funding goal for her campaign. This may or may not be the entire truth and there could be other reasons for campaign failure which we are currently ignoring
 
 - It may have helped us if we could deep dive more into the plays subcategory to understand the genres that the various plays belonged to. We may have then been able to guide Louise better on her Comdey play Fever 
 
-## What are some other possible tables and/or graphs that we could create?
+## Other possible tables and/or graphs that we could create
 - Tables and graphs correlating campaign outcomes based on average donations the campaign generated 
 - Correlation between campaign outcomes and number of backers it had
 - The impact of staff picks on campaign outcomes
